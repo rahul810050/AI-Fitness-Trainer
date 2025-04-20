@@ -36,13 +36,13 @@ const Navbar = () => {
                 <span>Home</span>
               </Link>
 
-              <Link
+              {/* <Link
                 href="/generate-program"
                 className="flex items-center gap-1.5 text-sm hover:text-primary transition-colors"
               >
                 <DumbbellIcon size={16} />
                 <span>Generate</span>
-              </Link>
+              </Link> */}
 
               <Link
                 href="/profile"
